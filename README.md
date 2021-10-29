@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @henriqml
 - 👀 I’m interested in technologies and dev
 - 🌱 I’m currently learning python <3 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
